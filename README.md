@@ -20,3 +20,17 @@ of a movie, removing movies, registering, or removing members, check member deta
 current renters of any movie. 
 The application developed by us covers all the given functionalities and has been tested 
 robustly for any errors.
+
+The software application has a main menu and two sub-menus. The
+identity of the user must be verified in the main menu before he/she can use the
+functionalities of the system. It is assumed that the username and the password for
+the staff are ‘staff’ and ‘today123’, respectively. Registered members are verified
+using their first name, last name and a password.
+
+<Main Menu>
+![1](https://user-images.githubusercontent.com/83393163/195004805-5deb481d-f40b-41db-bbf5-b0a3b96b0d3f.PNG)
+<Staff Menu>
+![2](https://user-images.githubusercontent.com/83393163/195004883-8d4cc0d9-d58b-40da-815e-4e7ff0900691.PNG)
+<Member Menu>
+![3](https://user-images.githubusercontent.com/83393163/195004937-6061ee3d-ca1a-4bdc-8933-cec764fb5738.PNG)
+
